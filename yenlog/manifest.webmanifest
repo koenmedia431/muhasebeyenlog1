@@ -1,0 +1,17 @@
+{
+  "name": "Yenlog · Cihad Muhasebe",
+  "short_name": "Muhasebe",
+  "description": "Cari hesap, yevmiye, kebir, mizan ve KDV takibi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#DFE4E7",
+  "theme_color": "#0C161C",
+  "lang": "tr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
